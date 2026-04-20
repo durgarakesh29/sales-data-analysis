@@ -20,7 +20,7 @@ In this project, I analyzed a sales dataset to understand product performance an
 - The analysis helps in business decision-making like inventory planning
 
 ## Files Included
-- sales_analysis.ipynb → VS Code with full analysis
+- sales_analysis.ipynb → Jupyter notebook with full analysis
 - cleaned_sales_data.csv → Processed dataset (optional)
 
 ## Conclusion
